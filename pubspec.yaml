@@ -1,7 +1,7 @@
 name: zzy_type_conversion
 description: This is a common type of conversion tool
-version: 0.0.3
-homepage: https://zzysiyou.coding.net/public/zzy_tools/zzy_type_conversion/git/files
+version: 0.0.4
+homepage: https://github.com/zzyZhiYuan
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
