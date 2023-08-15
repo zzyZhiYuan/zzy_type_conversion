@@ -42,6 +42,7 @@ class ZzyTypeConversion {
     if (value is Map) {
       return value;
     } else if (value is String) {
+
       try {
         var decodedValue = jsonDecode(value);
         if (decodedValue is Map) {
